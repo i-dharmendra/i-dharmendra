@@ -1,16 +1,24 @@
-## Hi there 👋
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Dharmendra. Aspiring Data Analyst!" src="./assets/gh-readme-header.png" /></a></p>
 
-<!--
-**i-dharmendra/i-dharmendra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br />
 
-Here are some ideas to get you started:
+Excel • SQL • Power BI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**About me**
+
+# About Me
+
+Hi! 👋 I'm Dharma, an aspiring Data Analyst passionate about turning raw data into actionable insights. I have hands-on experience with:
+
+- **Excel**: Data cleaning, pivot tables, dashboards  
+- **SQL**: Queries, joins, and database analysis  
+- **Power BI**: Interactive dashboards and visualizations  
+
+I love solving problems, analyzing data, and creating meaningful stories from numbers.  
+
+📫 **Connect with me:**  
+- Portfolio: https://dharmendra-analyst.netlify.app/  
+- LinkedIn: https://www.linkedin.com/in/dharmendra-analyst/
+- Email: dharmendrafwu@gmail.com
+
+
