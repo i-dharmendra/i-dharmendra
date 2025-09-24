@@ -1,4 +1,4 @@
-<p align="center">Hello, I'm Dharmendra. Aspiring Data Analyst!/p>
+<p align="center"> <b> Hello, I'm Dharmendra. Aspiring Data Analyst! </b></p>
 
 <br />
 
